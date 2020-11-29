@@ -37,7 +37,7 @@ MonoBehaviour:
   active: 1
   enabled:
     overrideState: 1
-    value: 1
+    value: 0
   colored:
     overrideState: 0
     value: 1
@@ -116,7 +116,7 @@ MonoBehaviour:
   active: 1
   enabled:
     overrideState: 1
-    value: 0
+    value: 1
   gradingMode:
     overrideState: 0
     value: 1
@@ -125,8 +125,8 @@ MonoBehaviour:
     value: {fileID: 0}
     defaultState: 1
   tonemapper:
-    overrideState: 0
-    value: 0
+    overrideState: 1
+    value: 2
   toneCurveToeStrength:
     overrideState: 0
     value: 0
@@ -154,28 +154,28 @@ MonoBehaviour:
     value: 1
   temperature:
     overrideState: 0
-    value: 0
+    value: 4.7
   tint:
     overrideState: 0
     value: 0
   colorFilter:
     overrideState: 0
-    value: {r: 1, g: 1, b: 1, a: 1}
+    value: {r: 1, g: 0.9009434, b: 0.9515169, a: 1}
   hueShift:
     overrideState: 0
     value: 0
   saturation:
     overrideState: 0
-    value: 0
+    value: 24.2
   brightness:
     overrideState: 0
     value: 0
   postExposure:
-    overrideState: 0
-    value: 0
+    overrideState: 1
+    value: 1
   contrast:
     overrideState: 0
-    value: 0
+    value: -6.2
   mixerRedOutRedIn:
     overrideState: 0
     value: 100
@@ -205,13 +205,13 @@ MonoBehaviour:
     value: 100
   lift:
     overrideState: 0
-    value: {x: 1, y: 1, z: 1, w: 0}
+    value: {x: 0.99610317, y: 1, z: 0.9970773, w: -0.142063}
   gamma:
     overrideState: 0
-    value: {x: 1, y: 1, z: 1, w: 0}
+    value: {x: 1, y: 1, z: 1, w: -0.06794328}
   gain:
     overrideState: 0
-    value: {x: 1, y: 1, z: 1, w: 0}
+    value: {x: 1, y: 1, z: 1, w: 1}
   masterCurve:
     overrideState: 0
     value:
@@ -1841,7 +1841,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90ce1611ace1a9a4a8284d45a924bdcd, type: 3}
   m_Name: Dithering
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 1
@@ -2397,25 +2397,25 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 50
+    value: 7.59
   threshold:
     overrideState: 1
-    value: 1.05
+    value: 0.66
   softKnee:
     overrideState: 1
-    value: 0.5
+    value: 0.218
   clamp:
-    overrideState: 1
-    value: 65472
+    overrideState: 0
+    value: 7
   diffusion:
     overrideState: 1
-    value: 6.3
+    value: 2.85
   anamorphicRatio:
     overrideState: 1
-    value: 0
+    value: -1
   color:
     overrideState: 1
-    value: {r: 0.6946658, g: 0.5764706, b: 0.83137256, a: 1}
+    value: {r: 1, g: 1, b: 1, a: 1}
   fastMode:
     overrideState: 1
     value: 1
@@ -3265,7 +3265,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfc0ecd934e74246bcf9791abe617b0, type: 3}
   m_Name: Pixelize
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 1
@@ -3325,7 +3325,7 @@ MonoBehaviour:
     value: 0
   fadeDistance:
     overrideState: 1
-    value: 300
+    value: 1000
   sensitivityDepth:
     overrideState: 1
     value: 1
@@ -3346,7 +3346,7 @@ MonoBehaviour:
     value: 1
   edgeOpacity:
     overrideState: 1
-    value: 1
+    value: 0.5
   sobelThin:
     overrideState: 0
     value: 0
@@ -3434,7 +3434,7 @@ MonoBehaviour:
   active: 1
   enabled:
     overrideState: 1
-    value: 1
+    value: 0
   shutterAngle:
     overrideState: 0
     value: 270

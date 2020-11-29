@@ -463,7 +463,8 @@ namespace CScape
 
 
 
-                int averageBSizeFront = Mathf.FloorToInt(accumulateDistanceFront / ((averageBuildingSizeMin + averageBuildingSizeMax) / 2));
+                var avSize = Mathf.Clamp(((averageBuildingSizeMin + averageBuildingSizeMax) / 2), 0.1f, 1000000);
+                int averageBSizeFront = Mathf.FloorToInt(accumulateDistanceFront / avSize);
                 System.Array.Resize(ref frontBuildingPositions, averageBSizeFront);
 
 

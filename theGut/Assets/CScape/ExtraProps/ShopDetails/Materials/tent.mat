@@ -4,8 +4,9 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: tent
   m_Shader: {fileID: 4800000, guid: 3ebfd66c1a6ad4247b5fd7864348361f, type: 3}
   m_ShaderKeywords: _NORMALMAP
@@ -79,15 +80,15 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.488
     - _GlossyReflections: 1
-    - _Metallic: 0.059
+    - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _Smoothness: 0.307
+    - _Smoothness: 1
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _SubsurfaceScatter: 0.083
+    - _SubsurfaceScatter: 0
     - _TransAmbient: 0.123
     - _TransDirect: 0.877
     - _TransNormalDistortion: 0.062
@@ -101,3 +102,4 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Color0: {r: 0.78676474, g: 0, b: 0.081389174, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []

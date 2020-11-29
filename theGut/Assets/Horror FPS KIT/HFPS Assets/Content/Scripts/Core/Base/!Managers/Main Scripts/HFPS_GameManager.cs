@@ -196,6 +196,7 @@ public class HFPS_GameManager : Singleton<HFPS_GameManager> {
 
         if (!isGamepad)
         {
+            print("show cursor " + m_ShowCursor);
             if (m_ShowCursor)
             {
                 Cursor.visible = true;
@@ -279,10 +280,12 @@ public class HFPS_GameManager : Singleton<HFPS_GameManager> {
                     string[] except = inventory.shortcutActions;
                     except = except.Append("Inventory").Append("Pause").ToArray();
                     crossPlatformInput.SuspendInput(true, except);
+                    //ShowCursor(true);
                 }
                 else
                 {
                     crossPlatformInput.SuspendInput(false);
+                    //ShowCursor(false);
                 }
             }
         }
@@ -330,8 +333,6 @@ public class HFPS_GameManager : Singleton<HFPS_GameManager> {
 
         if (PauseGamePanel.activeSelf && isPaused && isPressedPause)
         {
-            Cursor.visible = true;
-            Cursor.lockState = CursorLockMode.None;
             Crosshair.enabled = false;
             LockPlayerControls(false, false, true, 3, true);
             scriptManager.GetScript<PlayerFunctions>().enabled = false;
@@ -348,8 +349,6 @@ public class HFPS_GameManager : Singleton<HFPS_GameManager> {
         }
         else if (isPressedPause)
         {
-            Cursor.visible = false;
-            Cursor.lockState = CursorLockMode.Locked;
             Crosshair.enabled = true;
             LockPlayerControls(true, true, false, 3, false);
             scriptManager.GetScript<PlayerFunctions>().enabled = true;
@@ -650,6 +649,7 @@ public class HFPS_GameManager : Singleton<HFPS_GameManager> {
 
     public void ShowCursor(bool state)
     {
+        print("show cursor " + state);
         switch (state) {
             case true:
                 Cursor.visible = true;

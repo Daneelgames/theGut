@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\@MrPink\theGut\theGut" t="IncludeRecursive">
+    <e p="C:\Daneelgames\theGut\theGut" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -846,7 +846,7 @@
       <e p="Temp\bin" t="ExcludeRecursive" />
       <e p="theGut.sln" t="IncludeFlat" />
     </e>
-    <e p="C:\Users\MrPink\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\MrPink\AppData\Local\JetBrains\Transient\Rider\v202\SolutionCaches\_theGut.705472271.00" t="ExcludeRecursive" />
+    <e p="C:\Users\rubbe\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\rubbe\.Rider2019.3\system\resharper-host\Local\Transient\ReSharperHost\v193\SolutionCaches\_theGut.1076968516.00" t="ExcludeRecursive" />
   </component>
 </project>

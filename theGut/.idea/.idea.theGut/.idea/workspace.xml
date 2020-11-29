@@ -19,7 +19,78 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c88b8c5b-4a49-4622-9b93-36e5dc598ffb" name="Default Changelist" comment="" />
+    <list default="true" id="c88b8c5b-4a49-4622-9b93-36e5dc598ffb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.theGut/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.theGut/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.theGut/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.theGut/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.theGut/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.theGut/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CScape/BuildingMaterials/MegaCity1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CScape/BuildingMaterials/MegaCity1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CScape/DistrictTemplates/Default CScape City Colors.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CScape/DistrictTemplates/Default CScape City Colors.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CScape/Editor/Resources/BuildingTemplates/Buildings/CSTemplate12.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CScape/Editor/Resources/BuildingTemplates/Buildings/CSTemplate12.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CScape/Editor/Resources/TextureArrays/CScapeToolset/Dirt_IlluminationArray.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CScape/Editor/Resources/TextureArrays/CScapeToolset/Dirt_IlluminationArray.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CScape/Editor/Resources/TextureArrays/CScapeToolset/NormaltextureArray.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CScape/Editor/Resources/TextureArrays/CScapeToolset/NormaltextureArray.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CScape/Editor/Resources/TextureArrays/CScapeToolset/SurfaceArray.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CScape/Editor/Resources/TextureArrays/CScapeToolset/SurfaceArray.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CScape/Editor/Resources/TextureArrays/CScapeToolset/blindsArray.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CScape/Editor/Resources/TextureArrays/CScapeToolset/blindsArray.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CScape/Editor/Resources/TextureArrays/CScapeToolset/decallsArray.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CScape/Editor/Resources/TextureArrays/CScapeToolset/decallsArray.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CScape/Editor/Resources/TextureArrays/CScapeToolset/intArray.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CScape/Editor/Resources/TextureArrays/CScapeToolset/intArray.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CScape/Editor/Resources/TextureArrays/CScapeToolset/shopSignsArray.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CScape/Editor/Resources/TextureArrays/CScapeToolset/shopSignsArray.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CScape/Editor/Resources/TextureArrays/CScapeToolset/streetsArray.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CScape/Editor/Resources/TextureArrays/CScapeToolset/streetsArray.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CScape/Editor/Resources/TextureArrays/Rooftops/Rooftops_maps.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CScape/Editor/Resources/TextureArrays/Rooftops/Rooftops_maps.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CScape/Editor/Resources/TextureArrays/Rooftops/Rooftops_normal.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CScape/Editor/Resources/TextureArrays/Rooftops/Rooftops_normal.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CScape/Editor/Textures/AdvertisingPanels.psd" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CScape/Editor/Textures/AdvertisingPanels.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CScape/Editor/Textures/graffiti.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CScape/Editor/Textures/graffiti.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CScape/ExtraProps/ShopDetails/Materials/tent.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CScape/ExtraProps/ShopDetails/Materials/tent.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CScape/Materials/MegaCityStreet.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CScape/Materials/MegaCityStreet.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CScape/Models/Materials/AdvertisingPanels.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CScape/Models/Materials/AdvertisingPanels.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CScape/Scripts/StreetModifier.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CScape/Scripts/StreetModifier.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Animations/Player/CameraIdle.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Animations/Player/CameraIdle.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Animations/Player/CameraRun.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Animations/Player/CameraRun.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Materials/Environment/Animated/CandleFlame_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Materials/Environment/Animated/CandleFlame_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/!HandsTexture/hand_1_AO.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/!HandsTexture/hand_1_AO.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/!HandsTexture/hand_1_D.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/!HandsTexture/hand_1_D.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/!HandsTexture/hand_1_D_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/!HandsTexture/hand_1_D_2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/!HandsTexture/hand_1_N.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/!HandsTexture/hand_1_N.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/!HandsTexture/hand_1_S.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/!HandsTexture/hand_1_S.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Axe/Textures/Bloody/Axe_Bloody_AO.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Axe/Textures/Bloody/Axe_Bloody_AO.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Axe/Textures/Bloody/Axe_Bloody_Albedo.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Axe/Textures/Bloody/Axe_Bloody_Albedo.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Axe/Textures/Bloody/Axe_Bloody_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Axe/Textures/Bloody/Axe_Bloody_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Axe/Textures/Bloody/Axe_Bloody_Specular.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Axe/Textures/Bloody/Axe_Bloody_Specular.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Axe/Textures/Clean/Axe_AO.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Axe/Textures/Clean/Axe_AO.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Axe/Textures/Clean/Axe_Albedo.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Axe/Textures/Clean/Axe_Albedo.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Axe/Textures/Clean/Axe_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Axe/Textures/Clean/Axe_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Axe/Textures/Clean/Axe_Specular.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Axe/Textures/Clean/Axe_Specular.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Candle/Textures/Candle_01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Candle/Textures/Candle_01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Candle/Textures/Candle_01_Emission.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Candle/Textures/Candle_01_Emission.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Candle/Textures/Candle_01_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Candle/Textures/Candle_01_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Flashlight/Materials/FlashlightMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Flashlight/Materials/FlashlightMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Flashlight/Textures/Flashlight_Albedo.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Flashlight/Textures/Flashlight_Albedo.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Flashlight/Textures/Flashlight_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Flashlight/Textures/Flashlight_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Flashlight/Textures/Flashlight_Specular.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Flashlight/Textures/Flashlight_Specular.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Glock18/Textures/GlockAO.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Glock18/Textures/GlockAO.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Glock18/Textures/GlockColor.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Glock18/Textures/GlockColor.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Glock18/Textures/GlockMetal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Glock18/Textures/GlockMetal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Glock18/Textures/GlockNormal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Glock18/Textures/GlockNormal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Glock18/Textures/GlockRough.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Models/Arms/Arms_Glock18/Textures/GlockRough.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Resources/Setup/Game/HEROPLAYER.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Resources/Setup/Game/HEROPLAYER.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Scenes/MainMenu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Scenes/SceneLoader.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Scenes/SceneLoader.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Scripts/Core/Base/!Managers/Main Scripts/HFPS_GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Scripts/Core/Base/!Managers/Main Scripts/HFPS_GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Scripts/Core/Base/Player/Controller/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Scripts/Core/Base/Player/Controller/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SC Post Effects/SC Default Profile PPSv2.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SC Post Effects/SC Default Profile PPSv2.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/TheGutTestScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TheGutTestScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/TheGutTestSceneSettings.lighting" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TheGutTestSceneSettings.lighting" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/ConiferBark.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/ConiferBark.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/ConiferBark_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/ConiferBark_Normal.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Billboards.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Billboards.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Billboards_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Billboards_Normal.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Normal.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/sc.posteffects.editor.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/sc.posteffects.editor.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/sc.posteffects.runtime.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/sc.posteffects.runtime.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,12 +99,33 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Scripts/Core/Base/NPC/ZombieBehaviourAI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Scripts/Core/Base/!Managers/SaveLoad/GameLoadManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Scripts/Core/Base/UI/Menu/AdvancedMenuUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Scripts/Core/Base/Player/Camera/CameraBloodEffect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Scripts/Core/Base/!Managers/CrossPlatformInput/CrossPlatformInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Scripts/Core/Base/Player/Controller/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E2BCE5D3-3E70-4A76-A5C9-576F4D43769B/90/611be5e1/SceneManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Scripts/Core/Base/Player/Controller/MouseLook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CScape/Scripts/StreetModifier.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Scripts/Core/Base/!Managers/Main Scripts/JumpscareEffects.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Scripts/Core/Helpers/Prefs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CScape/Scripts/CityRandomizer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Scripts/Core/Base/Player/HealthManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Scripts/Core/Base/Triggers/Jumpscare/JumpscareTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Scripts/Core/Base/SceneManagment/SceneLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Scripts/Core/Base/!Managers/Main Scripts/HFPS_GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Scripts/Core/Base/Player/Camera/CameraShake/CameraShaker.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/CScape/Scripts/CSInstantiator.cs" />
         <option value="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Scripts/Core/Base/Player/Controller/MouseLook.cs" />
+        <option value="$PROJECT_DIR$/Assets/CScape/Scripts/StreetModifier.cs" />
         <option value="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Scripts/Core/Base/!Managers/Main Scripts/HFPS_GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Horror FPS KIT/HFPS Assets/Content/Scripts/Core/Base/Player/Controller/PlayerController.cs" />
       </list>
     </option>
   </component>
@@ -44,10 +136,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c88b8c5b-4a49-4622-9b93-36e5dc598ffb" name="Default Changelist" comment="" />
@@ -57,25 +155,33 @@
       <updated>1606594580843</updated>
       <workItem from="1606594585989" duration="830000" />
       <workItem from="1606655407928" duration="1569000" />
+      <workItem from="1606670673553" duration="6927000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1606681682549">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1606681682549" />
   </component>
 </project>

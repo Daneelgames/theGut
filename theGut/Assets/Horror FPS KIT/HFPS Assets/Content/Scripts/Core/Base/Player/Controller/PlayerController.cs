@@ -341,9 +341,12 @@ public class PlayerController : Singleton<PlayerController>
                 }
 
                 //Change player affect type to running when they are not in water
-                if (characterState == CharacterState.Stand && !isInWater)
+                if ((characterState == CharacterState.Stand || characterState == CharacterState.Crouch || characterState == CharacterState.Prone)  && !isInWater)
                 {
                     isRunning = isControllable && RunPressed && inputY > 0.5f && !ZoomPressed;
+                    
+                    if (isRunning)
+                        characterState = CharacterState.Stand;
                 }
                 else
                 {

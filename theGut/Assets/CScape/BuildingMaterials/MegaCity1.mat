@@ -347,7 +347,7 @@ Material:
     - _Blurr: 0
     - _Blurri: 0
     - _BuildingLighting: 8.03
-    - _BuildingLightness: 0.62
+    - _BuildingLightness: 2
     - _BumpScale: 2.17
     - _CSCAPE_DESKTOP: 0
     - _CSLights: 0.59
@@ -377,7 +377,7 @@ Material:
     - _Float20: 0.43
     - _Float21: 0.02
     - _Float22: 360.8
-    - _Float23: 0.131
+    - _Float23: 0.77
     - _Float35534543: 0.21
     - _Float4: 2.89
     - _Float5: 0
@@ -412,7 +412,7 @@ Material:
     - _Keyword0: 1
     - _Light: 0
     - _LightOnThershold: 0.04
-    - _LightStrenght: 10
+    - _LightStrenght: 0.6
     - _LightVariation: 1
     - _LightsOn: 0.184
     - _Lightsheight: 0
@@ -436,7 +436,7 @@ Material:
     - _Mode: 0
     - _NormalReflectionStrenght: 0.12
     - _NormalWindow: 0.99
-    - _Occlusion: 1
+    - _Occlusion: 0.66
     - _OcclusionStrength: 1
     - _Parallax: 0.0346
     - _ParallaxIterations: 0
